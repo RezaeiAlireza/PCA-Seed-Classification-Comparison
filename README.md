@@ -11,9 +11,9 @@ The Seeds dataset consists of measurements of geometrical properties of kernels 
 - seaborn
 - numpy
 ## Getting Started
-1- Clone this repository to your local machine.
-2- Install the required dependencies using pip: pip install -r requirements.txt
-3- Run the main script: python pca_seed_classification_comparison.py
+1. Clone this repository to your local machine.
+2. Install the required dependencies using pip: pip install -r requirements.txt
+3. Run the main script: python pca_seed_classification_comparison.py
 ## Project Structure
 - pca_seed_classification_comparison.py: Main script for loading the dataset, applying PCA, and comparing the performance of different classification algorithms.
 - requirements.txt: Contains the required dependencies for this project.
